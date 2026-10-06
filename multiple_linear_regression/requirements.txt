@@ -4,3 +4,4 @@ matplotlib>=3.8
 scikit-learn>=1.4
 jupyter>=1.0
 prettytable>=3.0
+seaborn>=0.11.0
